@@ -15,6 +15,8 @@ The document consists of two parts:
 
 - Develop a personalized, user-friendly health APP using Android
 
+### Project Landing Page: [Link to Landing Page](https://personalisednutrition.github.io/)
+
 ### Project design:
 
 > source: [Statement Of Work v1.3](https://anu365-my.sharepoint.com/:w:/g/personal/u7175274_anu_edu_au/Efm1kUvjZ2BLjSEMPjtS4Y8BiMSoTsCM4RXhh1Vd0LV8-g?e=CPvAb9)
